@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\setan\\source\\repos\\calculatriceapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12E892F3-1A1E-4112-A4E9-A95386218439}|LinqEvaluation\\ProjetConversionLinqEvaluation.csproj|c:\\users\\setan\\source\\repos\\calculatriceapp\\linqevaluation\\projetconversionlinqevaluation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12E892F3-1A1E-4112-A4E9-A95386218439}|LinqEvaluation\\ProjetConversionLinqEvaluation.csproj|solutionrelative:linqevaluation\\projetconversionlinqevaluation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E892F3-1A1E-4112-A4E9-A95386218439}|LinqEvaluation\\ProjetConversionLinqEvaluation.csproj|c:\\users\\setan\\source\\repos\\calculatriceapp\\linqevaluation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12E892F3-1A1E-4112-A4E9-A95386218439}|LinqEvaluation\\ProjetConversionLinqEvaluation.csproj|solutionrelative:linqevaluation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12E892F3-1A1E-4112-A4E9-A95386218439}|LinqEvaluation\\ProjetConversionLinqEvaluation.csproj|c:\\users\\setan\\source\\repos\\calculatriceapp\\linqevaluation\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{12E892F3-1A1E-4112-A4E9-A95386218439}|LinqEvaluation\\ProjetConversionLinqEvaluation.csproj|solutionrelative:linqevaluation\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\LinqExercicePresentationNet8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\DataSources.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\ListAlbumsData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjetConversionLinqEvaluation",
+              "DocumentMoniker": "C:\\Users\\setan\\source\\repos\\calculatriceapp\\LinqEvaluation\\ProjetConversionLinqEvaluation.csproj",
+              "RelativeDocumentMoniker": "LinqEvaluation\\ProjetConversionLinqEvaluation.csproj",
+              "ToolTip": "C:\\Users\\setan\\source\\repos\\calculatriceapp\\LinqEvaluation\\ProjetConversionLinqEvaluation.csproj",
+              "RelativeToolTip": "LinqEvaluation\\ProjetConversionLinqEvaluation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T14:08:52.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\setan\\source\\repos\\calculatriceapp\\LinqEvaluation\\README.md",
+              "RelativeDocumentMoniker": "LinqEvaluation\\README.md",
+              "ToolTip": "C:\\Users\\setan\\source\\repos\\calculatriceapp\\LinqEvaluation\\README.md",
+              "RelativeToolTip": "LinqEvaluation\\README.md",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-29T13:57:10.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\setan\\source\\repos\\calculatriceapp\\LinqEvaluation\\Program.cs",
+              "RelativeDocumentMoniker": "LinqEvaluation\\Program.cs",
+              "ToolTip": "C:\\Users\\setan\\source\\repos\\calculatriceapp\\LinqEvaluation\\Program.cs",
+              "RelativeToolTip": "LinqEvaluation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T13:57:09.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LinqExercicePresentationNet8.csproj",
+              "DocumentMoniker": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\LinqExercicePresentationNet8.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\LinqExercicePresentationNet8.csproj",
+              "ToolTip": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\LinqExercicePresentationNet8.csproj",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\LinqExercicePresentationNet8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T08:28:38.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataSources.csproj",
+              "DocumentMoniker": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\DataSources.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\DataSources.csproj",
+              "ToolTip": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\DataSources.csproj",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\DataSources.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-29T08:28:36.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListAlbumsData.cs",
+              "DocumentMoniker": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\ListAlbumsData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\ListAlbumsData.cs",
+              "ToolTip": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\ListAlbumsData.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\ListAlbumsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:24:12.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Artist.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Artist.cs",
+              "ToolTip": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Artist.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Artist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:24:10.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Album.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Album.cs",
+              "ToolTip": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Album.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\DataSources\\Collections\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:24:04.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\Program.cs",
+              "ToolTip": "C:\\Users\\setan\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\Desktop\\LinqExercicePresentationLastVersion\\LinqExercicePresentationNet8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T08:13:58.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

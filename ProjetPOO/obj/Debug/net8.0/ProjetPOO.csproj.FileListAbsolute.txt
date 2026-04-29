@@ -1,0 +1,14 @@
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\obj\Debug\net8.0\ProjetPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\obj\Debug\net8.0\ProjetPOO.AssemblyInfoInputs.cache
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\obj\Debug\net8.0\ProjetPOO.AssemblyInfo.cs
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\obj\Debug\net8.0\ProjetPOO.csproj.CoreCompileInputs.cache
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\bin\Debug\net8.0\ProjetPOO.exe
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\bin\Debug\net8.0\ProjetPOO.deps.json
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\bin\Debug\net8.0\ProjetPOO.runtimeconfig.json
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\bin\Debug\net8.0\ProjetPOO.dll
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\bin\Debug\net8.0\ProjetPOO.pdb
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\obj\Debug\net8.0\ProjetPOO.dll
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\obj\Debug\net8.0\refint\ProjetPOO.dll
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\obj\Debug\net8.0\ProjetPOO.pdb
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\obj\Debug\net8.0\ProjetPOO.genruntimeconfig.cache
+C:\Users\setan\source\repos\calculatriceapp\ProjetPOO\obj\Debug\net8.0\ref\ProjetPOO.dll
