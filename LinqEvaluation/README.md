@@ -8,11 +8,10 @@ Recherche, tri et export XML d'une liste de films en C# pour mettre en pratique 
 
 ProjetConversionLinqEvaluation/
 └── Program.cs
-
 DataSources/
-├── Collections/
-│   ├── Film.cs
-│   └── ListFilmsData.cs
+└── Collections/
+├── Film.cs
+└── ListFilmsData.cs
 
 ---
 
