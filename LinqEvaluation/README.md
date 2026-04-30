@@ -7,12 +7,11 @@ Recherche, tri et export XML d'une liste de films en C# pour mettre en pratique 
 ## Architecture
 
 ```
-ProjetConversionLinqEvaluation/
+LinqEvaluation/
 └── Program.cs
 DataSources/
-└── Collections/
-├── Film.cs
-└── ListFilmsData.cs
+└── Collections/Film.cs
+└── Collections/ListFilmsData.cs
 ```
 
 ---

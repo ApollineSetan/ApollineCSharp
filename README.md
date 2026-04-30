@@ -13,7 +13,7 @@ Simulation console d'un distributeur automatique mettant en pratique les concept
 
 ---
 
-### 2. ProjetConversionLinqEvaluation
+### 2. LinqEvaluation
 Logiciel de conversion qui permet de rechercher, trier et exporter une liste de films au format XML, en mettant en pratique LINQ.
 
 📄 README dédié et projet se trouvant ici : `LinqEvaluation/README.md`
