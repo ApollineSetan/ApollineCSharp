@@ -1,0 +1,15 @@
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\bin\Debug\net9.0\PerformancesCours.exe
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\bin\Debug\net9.0\PerformancesCours.deps.json
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\bin\Debug\net9.0\PerformancesCours.runtimeconfig.json
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\bin\Debug\net9.0\PerformancesCours.dll
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\bin\Debug\net9.0\PerformancesCours.pdb
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\PerformancesCours.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\PerformancesCours.AssemblyInfoInputs.cache
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\PerformancesCours.AssemblyInfo.cs
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\PerformancesCours.csproj.CoreCompileInputs.cache
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\PerformancesCours.sourcelink.json
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\PerformancesCours.dll
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\refint\PerformancesCours.dll
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\PerformancesCours.pdb
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\PerformancesCours.genruntimeconfig.cache
+C:\Users\setan\source\repos\calculatriceapp\PerformancesCours\obj\Debug\net9.0\ref\PerformancesCours.dll

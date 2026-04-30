@@ -10,7 +10,7 @@ var recherche = Console.ReadLine();
 var résultats = films
     .Where(f => f.Titre.Contains(recherche, StringComparison.InvariantCultureIgnoreCase));
 
-// Tri
+// puis le tri
 Console.WriteLine("Voulez-vous trier par titre dans l'ordre alphabétique (tapez '1') ou par date de sortie (tapez '2')");
 var choixTri = Console.ReadLine();
 
@@ -18,14 +18,14 @@ résultats = choixTri == "1"
     ? résultats.OrderBy(f => f.Titre)
     : résultats.OrderBy(f => f.Année);
 
-// Affichage des résultats
+// affichage des résultats
 Console.WriteLine("\n=== Résultats ===");
 foreach(var film in résultats)
 {
     Console.WriteLine($"{film.Id} : {film.Titre} ({film.Année})");
 }
 
-// Bonus avec choix des champs à exporter
+// bonus avec choix des champs à exporter
 Console.WriteLine("\nQuels champs souhaitez-vous exporter ?");
 Console.WriteLine("1 : Id, Titre, Année (tout)");
 Console.WriteLine("2 : Titre et Année uniquement");
@@ -53,6 +53,6 @@ XElement xml = new XElement("Films",
     )
 );
 
-// Sauvegarde du XML
+// sauvegarde du XML
 xml.Save("ResultatsFilms.xml");
 Console.WriteLine("\nRésultats exportés vers 'ResultatsFilms.xml'");

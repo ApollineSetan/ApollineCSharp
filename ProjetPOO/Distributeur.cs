@@ -35,7 +35,7 @@ namespace ProjetPOO
             {
                 if(produit is ISlogannable s)
                     Console.WriteLine(s.AfficherSlogan());
-                Console.WriteLine($"{produit.Prix:0.00}eu débités. Merci et bon appétit!");
+                Console.WriteLine($"{produit.Prix:0.00}eu débités. Merci !");
             }
             else
             {

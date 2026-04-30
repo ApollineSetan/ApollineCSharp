@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetPOO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d5c242c2247f2fd136831758c0e8b915682549")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetPOO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetPOO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

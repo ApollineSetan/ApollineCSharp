@@ -1,0 +1,15 @@
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\bin\Debug\net8.0\ProjetCalculatrice.exe
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\bin\Debug\net8.0\ProjetCalculatrice.deps.json
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\bin\Debug\net8.0\ProjetCalculatrice.runtimeconfig.json
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\bin\Debug\net8.0\ProjetCalculatrice.dll
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\bin\Debug\net8.0\ProjetCalculatrice.pdb
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\ProjetCalculatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\ProjetCalculatrice.AssemblyInfoInputs.cache
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\ProjetCalculatrice.AssemblyInfo.cs
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\ProjetCalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\ProjetCalculatrice.sourcelink.json
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\ProjetCalculatrice.dll
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\refint\ProjetCalculatrice.dll
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\ProjetCalculatrice.pdb
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\ProjetCalculatrice.genruntimeconfig.cache
+C:\Users\setan\source\repos\calculatriceapp\calculatriceapp\obj\Debug\net8.0\ref\ProjetCalculatrice.dll
