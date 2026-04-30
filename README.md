@@ -17,6 +17,7 @@ Simulation console d'un distributeur automatique mettant en pratique les concept
 Logiciel de conversion qui permet de rechercher, trier et exporter une liste de films au format XML, en mettant en pratique LINQ.
 
 📄 README dédié et projet se trouvant ici : `LinqEvaluation/README.md`
+Ressources se trouvant ici : `DataSources/Collections/Film.cs` et `DataSources/Collections/ListFilmsData.cs`
 
 ---
 
